@@ -21,3 +21,5 @@ Built with LangChain, FAISS, IBM Watsonx Granite, and Gradio.
   UI: Gradio
   
   Transcript Extraction: YouTubeTranscriptAPI
+
+Demo link: https://drive.google.com/file/d/1Irl75DKTCcDnRaAmvwYkukM3ABbjbPgb/view?usp=sharing
